@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "c06d0638-a9f0-4548-92d8-6044a9ed2eaf",
+      "name": "Ava Johnson",
+      "email": "ava@example.com",
+      "passwordHash": "e66860546f18cdbbcd86b35e18b525bffc67f772c650cedfe3ff7a0026fa1dee",
+      "phone": "8864063439",
+      "location": "Los Angeles, CA",
+      "role": "Candidate",
+      "desiredRole": "Frontend Developer",
+      "experience": "4 years building responsive, accessible job portal interfaces.",
+      "portfolio": "https://portfolio.example.com",
+      "headline": "Product-focused frontend engineer",
+      "createdAt": "2026-06-05T18:03:23.362Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "855e3a24-bc98-4f1e-b698-08cf211505a5",
+      "fullName": "Ava Johnson",
+      "email": "ava@example.com",
+      "phone": "",
+      "jobId": "job-1",
+      "experience": "4 years in frontend development and portal UI work.",
+      "location": "Los Angeles, CA",
+      "resume": "https://portfolio.example.com/resume",
+      "coverLetter": "I would love to contribute to the SkyHire portal and keep improving the candidate experience.",
+      "skills": "React, Node.js, CSS, accessibility, team collaboration",
+      "message": "",
+      "createdAt": "2026-06-05T18:04:56.990Z",
+      "submittedBy": "c06d0638-a9f0-4548-92d8-6044a9ed2eaf"
+    }
+  ],
+  "supportTickets": [
+    {
+      "id": "ffef9e39-e62d-4719-8d25-3e6c56ad67e8",
+      "name": "Ava Johnson",
+      "email": "ava@example.com",
+      "phone": "8864063439",
+      "category": "Login problem",
+      "message": "I am testing the support flow and the phone number contact is visible.",
+      "createdAt": "2026-06-05T18:04:43.745Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-1",
+      "title": "Frontend Developer",
+      "company": "SkyLine Labs",
+      "location": "Remote",
+      "type": "Full-time",
+      "salary": "$84k - $118k",
+      "tags": [
+        "React",
+        "CSS",
+        "UI"
+      ],
+      "summary": "Build bright, polished experiences for a fast-growing hiring platform."
+    },
+    {
+      "id": "job-2",
+      "title": "Node.js Backend Engineer",
+      "company": "BluePeak Systems",
+      "location": "San Francisco, CA",
+      "type": "Hybrid",
+      "salary": "$96k - $132k",
+      "tags": [
+        "Node.js",
+        "APIs",
+        "PostgreSQL"
+      ],
+      "summary": "Own secure APIs, file-backed services, and hiring workflows at scale."
+    },
+    {
+      "id": "job-3",
+      "title": "Talent Operations Specialist",
+      "company": "WhiteWave Careers",
+      "location": "Austin, TX",
+      "type": "On-site",
+      "salary": "$62k - $88k",
+      "tags": [
+        "Hiring",
+        "Support",
+        "Coordination"
+      ],
+      "summary": "Guide candidates, manage pipeline details, and keep operations moving."
+    }
+  ]
+}
